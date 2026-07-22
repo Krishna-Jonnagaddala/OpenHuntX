@@ -52,8 +52,9 @@ OpenHuntX/
 ├── Threat-Intel/            # Threat intelligence resources
 ├── Sample-Logs/             # Sample datasets
 └── Images/                  # Screenshots and diagrams
+```
 
-**# Sprint 1.4 - Supported Platforms**
+# Sprint 1.4 - Supported Platforms
 
 Next, add this section.
 
@@ -84,5 +85,4 @@ The documentation explains the overall architecture, data sources, threat huntin
 
 As the project grows, new documentation will be added alongside each hunting query and investigation guide.
 
-
-More content will be added as the project develops.
+Additional platforms may be supported in future releases.

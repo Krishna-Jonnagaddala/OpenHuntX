@@ -56,9 +56,6 @@ OpenHuntX/
 
 # Sprint 1.4 - Supported Platforms
 
-Next, add this section.
-
-```markdown
 ## Supported Platforms
 
 The current version of OpenHuntX focuses on Microsoft's security ecosystem.

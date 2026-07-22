@@ -33,4 +33,56 @@ Current Features
 * PowerShell and Python helper scripts
 * Project documentation and learning resources
 
+## Project Structure
+
+```text
+OpenHuntX/
+│
+├── docs/                    # Project documentation
+├── KQL/                     # Threat hunting queries
+│   ├── DefenderXDR/
+│   └── Sentinel/
+├── Investigation-Guides/    # Investigation walkthroughs
+├── Detection-Rules/         # Detection logic and analytics
+├── Playbooks/               # Incident response playbooks
+├── Scripts/
+│   ├── Python/
+│   └── PowerShell/
+├── Dashboards/              # Workbook examples
+├── Threat-Intel/            # Threat intelligence resources
+├── Sample-Logs/             # Sample datasets
+└── Images/                  # Screenshots and diagrams
+
+**# Sprint 1.4 - Supported Platforms**
+
+Next, add this section.
+
+```markdown
+## Supported Platforms
+
+The current version of OpenHuntX focuses on Microsoft's security ecosystem.
+
+### Microsoft Defender XDR
+
+- Microsoft Defender for Endpoint
+- Microsoft Defender for Office 365
+- Microsoft Defender for Identity
+- Microsoft Defender for Cloud Apps
+
+### Microsoft Sentinel
+
+- Log Analytics Workspace
+- Analytics Rules
+- Hunting Queries
+- Workbooks
+
+## Documentation
+
+Project documentation is available in the `docs` directory.
+
+The documentation explains the overall architecture, data sources, threat hunting methodology, and MITRE ATT&CK mappings used throughout the project.
+
+As the project grows, new documentation will be added alongside each hunting query and investigation guide.
+
+
 More content will be added as the project develops.
